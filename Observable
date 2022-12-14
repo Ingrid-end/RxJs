@@ -1,0 +1,14 @@
+o que é um Observable? 
+No JavaScript, quando queremos apenas um valor e de forma imperativa, isso é, recebemos assim que evocamos uma ação, o que
+ utilizamos? Uma função!
+
+ Quando não queremos apenas um valor, mas sim, iterar sobre uma coleção de valores, o que podemos utilizar? Um Iterator. 
+ E quando o valor que recebemos não pode ser recebido de imediato? Ou seja, para obter essa informação, precisamos esperar 
+ uma requisição. Não somos imperativos e sim reativos.
+
+ Nessa situação, quando temos que receber um único valor, o que utilizamos? Uma Promise. E, agora, se precisamos iterar 
+ sobre uma coleção, mas, precisamos fazer essa ação de forma reativa, o que utilizaremos? Aí, entra o Observable.
+
+O Observable representa uma coleção de eventos ou valores que ocorrem no tempo. E a melhor representação de um Observable
+ é um cano, porém, em vez de passar água ou encanadores italianos, passa valores ou objetos JavaScript.
+

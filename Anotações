@@ -1,0 +1,6 @@
+Entre na pasta API : npm i
+Depois : npm start;
+
+
+Entre na pasta byte-bank-broker: npm i
+Depois : ng serve
